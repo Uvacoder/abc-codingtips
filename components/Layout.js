@@ -36,7 +36,7 @@ function Layout({ children }) {
       <Head>
         <link rel="icon" href={FAVICON} />
         <link rel="stylesheet" href="https://use.typekit.net/hxw8tgn.css" />
-        <title>CodingHub Tips</title>
+        <title>CodingTips</title>
       </Head>
 
       <div className="logo">
@@ -53,11 +53,11 @@ function Layout({ children }) {
       </div>
 
       <footer>
-        <a href="https://github.com/telmogoncalves/codinghub-tips" target="_blank">
+        <a href="https://github.com/uvacoder/codingtips" target="_blank">
           <GitHub />
         </a>
 
-        <a href="https://twitter.com/telmo" target="_blank">
+        <a href="https://twitter.com/AlecCam43544378" target="_blank">
           <Twitter />
         </a>
       </footer>
