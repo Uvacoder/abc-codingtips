@@ -72,7 +72,7 @@ function Homepage({ allTips }) {
           <h3>Couldn't find what you're looking for?</h3>
           <h5>
             Why not adding it yourself? {' '}
-            <a href="https://github.com/telmogoncalves/codinghub-tips" target="_blank">
+            <a href="https://github.com/uvacoder/codingtips" target="_blank">
               Open GitHub
             </a>
           </h5>
